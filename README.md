@@ -1,10 +1,11 @@
 # Mandarin Punch
 
-Concept study for an eLearning web interface for L2 translation practice, by Alfons Grabher (2026)
+Concept app, pondering ideas for an eLearning web interface for L2 sentence translation practice, by Alfons Grabher (2026)
  
 Example texts (to demo the concept and real testing) copyright by Mandarin Corner (used without asking permission) mandarincorner.org. Before using this software, please support Mandarin Corner by becoming a member at their website.
 
-Hànyǔ Pīnyīn spelling with strict compliance to GB/T 16159-2012 by Alfons (coming soon). Texts completed:
+Hànyǔ Pīnyīn spelling with strict compliance to GB/T 16159-2012 by Alfons (coming soon). Spellchecking completed for the following texts:
 
-- lesson-text-articulateness (Articulateness)
+- lesson-text-articulateness (MC - Articulateness)
+- lesson-text-10minflow (YK - 10 min flow)
 
