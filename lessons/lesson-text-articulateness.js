@@ -3,7 +3,7 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 大家好，我是Kirk。	Dàjiā hǎo, wǒ shì Kirk.	Hello everyone, I’m Kirk.
 前不久呢我跟Kirk	Qiánbùjiǔ ne, wǒ gēn Kirk	Not long ago, Kirk and I
 一起在中山的街头做了一期街访。	yīqǐ zài Zhōngshān de jiētóu zuòle yī qī jiēfǎng.	together did a street-interview episode on the streets of Zhongshan.
-然后这个期间我们就注意到很多路人	Ránhòu zhège qī jiān wǒmen jiù zhùyì dào hěn duō lùrén	Then during that period we noticed that many passersby
+然后这个期间我们就注意到很多路人	Ránhòu zhè gè qī jiān wǒmen jiù zhùyì dào hěn duō lùrén	Then during that period we noticed that many passersby
 在表达自己的观点时呢存在着许多问题。	zài biǎodá zìjǐ de guāndiǎn shí ne, cúnzàizhe xǔduō wèntí.	had many problems when expressing their own viewpoints.
 例如说逻辑不够清晰、用词不够准确，	Lìrú shuō: luóji bù gòu qīngxī, yòngcí bù gòu zhǔnquè,	For example, their logic was not clear enough, their word choice was not accurate enough,
 叙述缺乏条理等等。	xùshù quēfá tiáolǐ, děngděng.	their narration lacked organization, and so on.
@@ -35,7 +35,7 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 我觉得这种问题全世界的人都有唉	Wǒ juéde zhè zhǒng wèntí quánshìjiè de rén dōu yǒu ai.	I think this kind of problem exists among people all over the world.
 反复地表达，重复一个观点，	Fǎnfù de biǎodá, chóngfù yī gè guāndiǎn,	Repeated expression, repeating the same viewpoint,
 我觉得全世界很多人	wǒ juéde quánshìjiè hěn duō rén,	I think many people around the world
-我接触不同国家的人好像都有这个问题。	wǒ jiēchù bùtóng guójiā de rén hǎoxiàng dōu yǒu zhège wèntí.	—people from different countries that I’ve interacted with—seem to all have this problem.
+我接触不同国家的人好像都有这个问题。	wǒ jiēchù bùtóng guójiā de rén hǎoxiàng dōu yǒu zhè gè wèntí.	—people from different countries that I’ve interacted with—seem to all have this problem.
 那我也不知道到底是中国人比较严重，	Nà wǒ yě bù zhīdào dàodǐ shì Zhōngguórén bǐjiào yánzhòng,	So I also don’t know whether Chinese people are more serious,
 还是外国人比较严重。	háishi wàiguórén bǐjiào yánzhòng.	or foreigners are more serious.
 就像你说的，我也很认同全世界的人	Jiù xiàng nǐ shuō de, wǒ yě hěn rèntóng quánshìjiè de rén	Just like what you said, I also really agree that people all over the world
@@ -57,12 +57,12 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 因为老师对你的一种惩罚就是	yīnwèi lǎoshī duì nǐ de yī zhǒng chéngfá, jiùshì,	because one kind of punishment from teachers was that
 你做错了一道题，他对你的惩罚就是抄写。	nǐ zuòcuòle yī dào tí, tā duì nǐ de chéngfá jiùshì chāoxiě.	if you got a question wrong, the punishment was copying.
 我曾经就抄过整本… 一整本语文书	Wǒ céngjīng jiù chāoguo zhěng běn, yī zhěng běn yǔwénshū,	I once copied an entire… a whole Chinese-language textbook,
-从那个文章到后面的题目，	cóng nàge wénzhāng dào hòumian de tímù,	from the main texts to the exercises at the back,
+从那个文章到后面的题目，	cóng nà gè wénzhāng dào hòumian de tímù,	from the main texts to the exercises at the back,
 标点符号所有的东西全部抄下来，	biāodiǎn fúhào, suǒyǒu de dōngxi quánbù chāo xiàlai,	punctuation marks—everything—all copied down.
 所以我极其讨厌看到语文书。	suǒyǐ wǒ jíqí tǎoyàn kàndào yǔwénshū.	So I extremely hate seeing Chinese-language textbooks.
 我觉得是一种无意义的惩罚唉	Wǒ juéde shì yī zhǒng wú yìyì de chéngfá ai.	I think it’s a kind of meaningless punishment.
 我们中国人是觉得是有意义的	Wǒmen Zhōngguórén shì juéde shì yǒu yìyì de.	We Chinese people think it is meaningful,
-就是比如说你看我们的那个以前的教材，	Jiùshì, bǐrú shuō, nǐ kàn wǒmen de nàge yǐqián de jiàocái,	for example, if you look at our older textbooks,
+就是比如说你看我们的那个以前的教材，	Jiùshì, bǐrú shuō, nǐ kàn wǒmen de nà gè yǐqián de jiàocái,	for example, if you look at our older textbooks,
 三字经什么的东西。	Sānzìjīng a, shénme de dōngxi.	things like the Three Character Classic (三字经 Sānzìjīng).
 它主要就强调的是要背，	Tā zhǔyào jiù qiángdiào de shì yào bèi,	They mainly emphasize memorization,
 要抄这些概念，对吧？	yào chāo, zhèxiē gàiniàn, duì ba?	emphasize copying these concepts, right?
@@ -80,7 +80,7 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 所以在上历史课的时候，	Suǒyǐ zài shàng lìshǐkè de shíhou,	So when attending history class,
 通常就是一个老师在上面讲历史，	tōngcháng jiùshì yī gè lǎoshī zài shàngmiàn jiǎng lìshǐ.	usually it's just one teacher lecturing at the front about history.
 然后他就在那里一直讲，一直讲	Ránhòu tā jiù zài nàli yīzhí jiǎng, yīzhí jiǎng,	Then he just keeps talking there and talking.
-这个划一下重点，那个是要考试的。	zhège, huà yīxià zhòngdiǎn, nàge shì yào kǎoshì de.	“This, underline it as a key point; that one will be on the exam.”
+这个划一下重点，那个是要考试的。	zhège, huà yīxià zhòngdiǎn, nàge, shì yào kǎoshì de.	“This, underline it as a key point; that one will be on the exam.”
 然后我们就在下面一边听，一边打瞌睡	Ránhòu wǒmen jiù zài xiàmiàn yībiān tīng, yībiān dǎ kēshuì.	And then we would be listening while dozing off.
 其实他就是想要让我们把重点记下来，	Qíshí tā jiùshì xiǎngyào ràng wǒmen bǎ zhòngdiǎn jì xiàlai,	Actually, he just wanted us to write down the key points,
 以防考试的时候要考到这些点。	yǐfáng kǎoshì de shíhou yào kǎodào zhèxiē diǎn.	in case these points would appear on the exam.
@@ -102,29 +102,29 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 就是跟大家意见完全不一样的观点。	jiùshì gēn dàjiā yìjiàn wánquán bù yīyàng de guāndiǎn.	a viewpoint that is completely different from everyone else’s.
 一旦你讲出了你自己的看法的时候，	Yīdàn nǐ jiǎngchūle nǐ zìjǐ de kànfǎ de shíhou,	Once you state your own opinion,
 很多时候对方会嘲笑你，	hěn duō shíhou duìfāng huì cháoxiào nǐ,	many times the other side will ridicule you,
-就说你这个人怎么这么幼稚呀！	jiù shuō, “Nǐ zhège rén zěnme zhème yòuzhì ya!	saying, “Why are you so immature?”
-这个事情已经有了一个定论了，	Zhège shìqing yǐjīng yǒule yī gè dìnglùn le,	“This matter already has a final conclusion,”
+就说你这个人怎么这么幼稚呀！	jiù shuō, “Nǐ zhè gè rén zěnme zhème yòuzhì ya!	saying, “Why are you so immature?”
+这个事情已经有了一个定论了，	zhè gè shìqing yǐjīng yǒule yī gè dìnglùn le,	“This matter already has a final conclusion,”
 你怎么还能有你自己的看法呢？	nǐ zěnme hái néng yǒu nǐ zìjǐ de kànfǎ ne?”	“how can you still have your own view?”
 如果我们不按一个统一的想法，统一的方针行事，	Rúguǒ wǒmen bù àn yī gè tǒngyī de xiǎngfǎ, tǒngyī de fāngzhēn xíngshì,	If we don’t act according to a unified way of thinking, a unified policy,
-那么这个团体就会乱，对吧？	nàme, zhège tuántǐ jiù huì luàn, duì ba?	then this group will fall into chaos, right?
+那么这个团体就会乱，对吧？	nàme, zhè gè tuántǐ jiù huì luàn, duì ba?	then this group will fall into chaos, right?
 就不能扭成一股绳子，	Jiù bù néng niǔchéng yī gǔ shéngzi,	Then it won’t be possible to twist into one single rope,
 一起用力，对吧？	yīqǐ yònglì, duì ba?	to exert force together, right?
 对对对，就是大家在一个发力点上一起发力	Duì duì duì, jiùshì dàjiā zài yī gè fālìdiǎn shàng yīqǐ fālì.	Yes, yes, yes—everyone exerting force together at one single point
 好像就能做了一件… 就能把金字塔建起来了	Hǎoxiàng jiù néng zuòle yī jiàn… jiù néng bǎ jīnzìtǎ jiàn qilai le.	seems like then one thing can be done… like the pyramid can be built.
 大家要努力向一个方向建	Dàjiā yào nǔlì xiàng yī gè fāngxiàng jiàn,	Everyone has to work hard in one direction,
-就不像那个圣经里面有一个巴别塔，	jiù bù xiàng nàge Shèngjīng lǐmiàn yǒu yī gè bābiétǎ.	unlike that story in the Bible about the Tower of Babel (巴别塔 Bābié Tǎ),
+就不像那个圣经里面有一个巴别塔，	jiù bù xiàng nà gè Shèngjīng lǐmiàn yǒu yī gè bābiétǎ.	unlike that story in the Bible about the Tower of Babel (巴别塔 Bābié Tǎ),
 它是一个通天塔，它要通到天堂去。	Tā shì yī gè tōngtiāntǎ, tā yào tōngdào tiāntáng qù.	which was a tower reaching to the heavens (通天塔 Tōngtiān Tǎ), meant to reach heaven.
 但是呢被上帝看到了	Dànshì ne, bèi Shàngdì kàndào le.	But then God saw it
 他就说，不能这样	Tā jiù shuō, “Bù néng zhèyàng.	and said, “This can’t be allowed.”
 你们人类要造反了是怎样？	Nǐmen rénlèi yào zàofǎnle shì zěnyàng?”	“Are you humans trying to rebel?”
 他就让他们讲不同的语言，	Tā jiù ràng tāmen jiǎng bùtóng de yǔyán.	So he made them speak different languages,
 大家就乱了，没有办法沟通交流了，	Dàjiā jiù luàn le, méiyǒu bànfǎ gōutōng jiāoliú le,	and everyone fell into disorder, unable to communicate and exchange ideas,
-没有办法协作了，就建不好这个塔。	méiyǒu bànfǎ xiézuò le, jiù jiànbuhǎo zhège tǎ.	unable to cooperate, and so the tower couldn’t be built.
+没有办法协作了，就建不好这个塔。	méiyǒu bànfǎ xiézuò le, jiù jiànbuhǎo zhè gè tǎ.	unable to cooperate, and so the tower couldn’t be built.
 我感觉我们就是这样的一个情况。	Wǒ gǎnjué wǒmen jiùshì zhèyàng de yī gè qíngkuàng.	I feel that we are in a situation like this.
 就说我们大家讲一个语言，要统一的一个思维，	Jiù shuō wǒmen dàjiā jiǎng yī gè yǔyán, yào tǒngyī de yī gè sīwéi,	That is, we all speak one language, have one unified way of thinking,
-向一个地方努力，然后这个塔，	xiàng yī gè dìfang nǔlì, ránhòu zhège tǎ,	work toward one place, and then this tower,
+向一个地方努力，然后这个塔，	xiàng yī gè dìfang nǔlì, ránhòu zhè gè tǎ,	work toward one place, and then this tower,
 通天塔就会建好了。	tōngtiāntǎ jiù huì jiànhǎo le.	this heaven-reaching tower, can be built successfully.
-我就感觉是这个样子的一种文化氛围在里面。	Wǒ jiù gǎnjué shì zhège yàngzi de yī zhǒng wénhuà fēnwéi zài lǐmiàn.	I feel that this kind of cultural atmosphere exists within it.
+我就感觉是这个样子的一种文化氛围在里面。	Wǒ jiù gǎnjué shì zhè gè yàngzi de yī zhǒng wénhuà fēnwéi zài lǐmiàn.	I feel that this kind of cultural atmosphere exists within it.
 什么样的人他会愿意去表达自己的观点，	Shénmeyàng de rén tā huì yuànyì qù biǎodá zìjǐ de guāndiǎn,	What kind of people are willing to express their own viewpoints
 在我们的社会里面？	zài wǒmen de shèhuì lǐmiàn?	in our society?
 很多时候都是一些少数群体	Hěn duō shíhou dōu shì yīxiē shǎoshù qúntǐ.	Many times, it’s some minority groups.
@@ -133,7 +133,7 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 他们其实是很有表达欲望的，	Tāmen qíshí shì hěn yǒu biǎodá yùwàng de,	They actually have a very strong desire to express themselves,
 但是没有人想听他们的说法。	dànshì méiyǒu rén xiǎng tīng tāmen de shuōfa.	but no one wants to listen to what they have to say.
 就像我之前跟你有做过一期podcast	Jiù xiàng wǒ zhī qián gēn nǐ yǒu zuòguo yī qī podcast,	Just like an episode of a podcast I previously did with you,
-我就讲这个问题，就是你在学校里边	wǒ jiù jiǎng zhège wèntí, jiùshì nǐ zài xuéxiào lǐbian,	where I talked about this issue—namely, that in school
+我就讲这个问题，就是你在学校里边	wǒ jiù jiǎng zhè gè wèntí, jiùshì nǐ zài xuéxiào lǐbian,	where I talked about this issue—namely, that in school
 你到学校里面去，你都不能穿跟大家不一样的衣服。	nǐ dào xuéxiào lǐmiàn qù, nǐ dōu bù néng chuān gēn dàjiā bù yīyàng de yīfu.	when you go to school, you can’t even wear clothes different from everyone else’s.
 就算你戴一个帽子、你戴一个眼镜	Jiùsuàn nǐ dài yī gè màozi, nǐ dài yī gè yǎnjìng,	Even if you wear a hat or put on glasses,
 你身上有一个跟别人不一样的饰物，	nǐ shēnshang yǒu yī gè gēn biéren bù yīyàng de shìwù,	or have an accessory on you that’s different from others’,
@@ -158,7 +158,7 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 你每个人的观点都是一模一样的，	Nǐ měi gè rén de guāndiǎn dōu shì yīmú-yīyàng de,	Everyone’s viewpoint is exactly the same
 对一个大事上面。	duì yī gè dàshì shàngmiàn.	on a major issue.
 很多人觉得日本人很坏，	Hěn duō rén juéde Rìběnrén hěn huài,	Many people think Japanese people are bad—
-我们这个观点从哪儿来的？	wǒmen zhège guāndiǎn cóng nǎr lái de?	where does this viewpoint come from?
+我们这个观点从哪儿来的？	wǒmen zhè gè guāndiǎn cóng nǎr lái de?	where does this viewpoint come from?
 就是电视上有很多抗日剧，对吧？	Jiùshì diànshì shàng yǒu hěn duō Kàng-Rì jù, duì ba?	There are many anti-Japanese war TV dramas (抗日剧 Kàngrì jù) on television, right?
 日本军国主义帝国主义他们确实入侵了中国，	Rìběn jūnguózhǔyì dìguózhǔyì tāmen quèshí rùqīnle Zhōngguó.	Japanese militarist imperialism did indeed invade China;
 这个是无可否认的事实。	Zhège shì wúkě-fǒurèn de shìshí.	this is an undeniable fact.
@@ -175,7 +175,7 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 一句话就把别人否定了。	Yī jù huà jiù bǎ biéren fǒudìng le.	One sentence negates others entirely.
 我们都不去思考了，	Wǒmen dōu bù qù sīkǎo le,	We stop thinking altogether,
 那我们又怎么去表达更复杂的看法？	nà wǒmen yòu zěnme qù biǎodá gèng fùzá de kànfǎ?	so how can we express more complex viewpoints?
-而当你表达这个看法的时候	Ér dāng nǐ biǎodá zhège kànfǎ de shíhou,	And when you express that kind of viewpoint,
+而当你表达这个看法的时候	Ér dāng nǐ biǎodá zhè gè kànfǎ de shíhou,	And when you express that kind of viewpoint,
 哇，那你就是触犯了一个禁忌啊	wa, nà nǐ jiùshì chùfànle yī gè jìnjì a.	wow—then you’ve touched a taboo.
 就是所有人都认为这件事情是对的，	Jiùshì suǒyǒurén dōu rènwéi zhè jiàn shìqing shì duì de,	Everyone thinks this matter is correct;
 你觉得他是错的，	nǐ juéde tā shì cuò de.	you think it’s wrong,
@@ -218,9 +218,9 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 可能就会被惩罚或者是被打压，	kěnéng jiù huì bèi chéngfá, huòzhě shì bèi dǎyā,	might be punished or suppressed,
 所以长大之后你也就学会了	suǒyǐ zhǎngdà zhī hòu nǐ yě jiù xuéhuìle	so after you grow up, you also learn that
 当别人问你一个问题的时候，	dāng biéren wèn nǐ yī gè wèntí de shíhou,	when someone asks you a question,
-你就会按照大家所提供的那个标准答案来回答。	nǐ jiù huì ànzhào dàjiā suǒ tígōng de nàge biāozhǔn dá'àn lái huídá.	you will answer according to the standard answer that everyone provides.
+你就会按照大家所提供的那个标准答案来回答。	nǐ jiù huì ànzhào dàjiā suǒ tígōng de nà gè biāozhǔn dá'àn lái huídá.	you will answer according to the standard answer that everyone provides.
 就有一个很好的例子，	Jiù yǒu yī gè hěn hǎo de lìzi,	There’s a very good example of this:
-就是当时我们在做那个街访的时候，	jiùshì dāngshí wǒmen zài zuò nàge jiēfǎng de shíhou,	when we were doing that street interview,
+就是当时我们在做那个街访的时候，	jiùshì dāngshí wǒmen zài zuò nà gè jiēfǎng de shíhou,	when we were doing that street interview,
 我们不是问，你觉得大家为什么要美白呢？	wǒmen bù shì wèn, “Nǐ juéde dàjiā wèishénme yào měibái ne?”	didn’t we ask, “Why do people think whitening is necessary?”
 就有个人回答说因为好看呀，	Jiù yǒu gè rén huídá shuō, “Yīnwèi hǎokàn ya,”	And one person answered, “Because it looks good,”
 因为我们是中国人，	“yīnwèi wǒmen shì Zhōngguórén,”	“because we are Chinese,”
@@ -313,7 +313,7 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 很多表达和沟通困难的地方。	hěn duō biǎodá hé gōutōng kùnnan de dìfang.	many difficulties in expression and communication.
 那如果是这样子的话，	Nà rúguǒ shì zhèyàngzi dehuà,	If that’s the case, then
 那也不是他们表达能力的问题了，	nà yě bù shì tāmen biǎodá nénglì de wèntí le,	it’s not really a problem of their expressive ability anymore;
-就是他们对这个事物其实并没有什么看法。	jiùshì tāmen duì zhège shìwù qíshí bìng méiyǒu shénme kànfǎ.	it’s that they actually don’t have any view on this matter.
+就是他们对这个事物其实并没有什么看法。	jiùshì tāmen duì zhè gè shìwù qíshí bìng méiyǒu shénme kànfǎ.	it’s that they actually don’t have any view on this matter.
 是的是的	Shìde, shìde.	Yes, yes.
 其实我觉得我们表达能力整体来说不够好的，	Qíshí wǒ juéde wǒmen biǎodá nénglì, zhěngtǐ lái shuō, bù gòu hǎo de.	Actually, I think that overall our expressive ability isn’t very strong,
 还有一个很大的原因就是很多知识的匮乏。	Háiyǒu yī gè hěn dà de yuányīn, jiùshì hěn duō zhīshi de kuìfá,	and another very big reason is a lack of knowledge.
@@ -328,7 +328,7 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 你的大脑在计算，你在搜索一些能用的内容，	Nǐ de dànǎo zài jìsuàn, nǐ zài sōusuǒ yīxiē néng yòng de nèiróng,	Your brain is calculating; you’re searching for usable content,
 但是那些知识都是从短视频	dànshì nàxiē zhīshi dōu shì cóng duǎnshìpín	but that knowledge all comes from short videos,
 或者是说你在等巴士的时候，	huòzhě shì shuō nǐ zài děng bāshì de shíhou,	or from when you’re waiting for a bus,
-看那个巴士上面有一句广告，	kàn nàge bāshì shàngmiàn yǒu yī jù guǎnggào,	seeing a line of advertising on the bus,
+看那个巴士上面有一句广告，	kàn nà gè bāshì shàngmiàn yǒu yī jù guǎnggào,	seeing a line of advertising on the bus,
 说什么什么一句话一句词汇	shuō shénme shénme, yī jù huà, yī jù cíhuì.	some sentence, some phrase.
 你在搜索那些东西，	Nǐ zài sōusuǒ nàxiē dōngxi,	You’re searching for those things,
 你要把它组成一个完整的表达还是很难的。	nǐ yào bǎ tā zǔchéng yī gè wánzhěng de biǎodá háishi hěn nán de.	and trying to assemble them into a complete expression is still very hard.
@@ -351,7 +351,7 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 还是说只是某种为了博眼球	háishi shuō, zhǐshì mǒuzhǒng wèile bó yǎnqiú,	or whether it’s just some kind of eye-catching,
 而做出来的一些没有意义的一些娱乐性的东西。	ér zuò chūlai de yīxiē méiyǒu yìyì de yīxiē yúlèxìng de dōngxi.	meaningless, purely entertaining content.
 我不是说娱乐不能学习	Wǒ bù shì shuō yúlè bù néng xuéxí,	I’m not saying that entertainment can’t involve learning;
-就是你在娱乐的时候这个超短的十秒之内，	jiùshì nǐ zài yúlè de shíhou zhège chāoduǎn de shí miǎo zhī nèi,	it’s just that in those ultra-short ten seconds of entertainment,
+就是你在娱乐的时候这个超短的十秒之内，	jiùshì nǐ zài yúlè de shíhou zhè gè chāoduǎn de shí miǎo zhī nèi,	it’s just that in those ultra-short ten seconds of entertainment,
 你能学到什么东西呢？	nǐ néng xuédào shénme dōngxi ne?	what can you really learn?
 还是说你哈哈一笑了，	Háishi shuō nǐ hāhā yī xiào le,	Or is it that you just laugh,
 大脑一片空白就完成了。	dànǎo yī piàn kòngbái jiù wánchéng le.	your brain goes blank, and it’s over?
@@ -359,13 +359,13 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 就是当你像短视频里面那样说话的话，	Jiùshì dāng nǐ xiàng duǎnshìpín lǐmiàn nàyàng shuōhuà dehuà,	That is, if you talk the way people talk in short videos,
 你会觉得很难表达自己。	nǐ huì juéde hěn nán biǎodá zìjǐ.	you’ll find it very hard to express yourself.
 当你跟别人说话的时候	Dāng nǐ gēn biéren shuōhuà de shíhou,	When you talk to other people,
-你就说，哎呀那个东西	nǐ jiù shuō, “Āiyā, nàge dōngxi,	you’ll say things like, “Oh, that thing…
+你就说，哎呀那个东西	nǐ jiù shuō, “Āiyā, nà gè dōngxi,	you’ll say things like, “Oh, that thing…
 就是有一点那个，你知道吗？	jiùshì yǒu yīdiǎn nàge.” Nǐ zhīdào ma?	it’s kind of that, you know?”
-你看过那个视频吗？就是那个样子的	“Nǐ kànguo nàge shìpín ma?” Jiùshì nàge yàngzi de,	“Have you seen that video? It’s like that.”
+你看过那个视频吗？就是那个样子的	“Nǐ kànguo nà gè shìpín ma?” Jiùshì nà gè yàngzi de,	“Have you seen that video? It’s like that.”
 就那样的感觉	jiù nàyàng de gǎnjué.	That kind of feeling.
-如果你跟这个内容做互动的话，	Rúguǒ nǐ gēn zhège nèiróng zuò hùdòng dehuà,	If you interact with this content,
+如果你跟这个内容做互动的话，	Rúguǒ nǐ gēn zhè gè nèiróng zuò hùdòng dehuà,	If you interact with this content,
 我觉得它是可以的。	wǒ juéde tā shì kěyǐ de.	I think it can be okay.
-如果你只是看完了，看到这个视频刷走，	Rúguǒ nǐ zhǐshì kànwán le, kàndào zhège shìpín shuāzǒu,	But if you just watch it, swipe past it after watching,
+如果你只是看完了，看到这个视频刷走，	Rúguǒ nǐ zhǐshì kànwán le, kàndào zhè gè shìpín shuāzǒu,	But if you just watch it, swipe past it after watching,
 然后看下一个又刷走，	ránhòu kàn xià yī gè, yòu shuāzǒu,	then watch the next one and swipe past again,
 那么我觉得这个是没有帮助的。	nàme wǒ juéde zhège shì méiyǒu bāngzhù de.	then I think that’s not helpful.
 就哪怕你看书也是一样的。	Jiù nǎpà nǐ kànshū yě shì yīyàng de.	Even reading books is the same.
@@ -373,7 +373,7 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 你没有去回想书里的内容	nǐ méiyǒu qù huíxiǎng shū lǐ de nèiróng,	you don’t reflect on the content of the book,
 然后跟别人分享	ránhòu gēn biéren fēnxiǎng	and don’t share it with others,
 或者是通过写作的形式来再去回忆，	huòzhě shì tōngguò xiězuò de xíngshì lái zài qù huíyì,	or revisit it through writing,
-再去发表你对这个书中内容的看法的话，	zài qù fābiǎo nǐ duì zhège shū zhōng nèiróng de kànfǎ dehuà,	and then express your own views on the book’s content,
+再去发表你对这个书中内容的看法的话，	zài qù fābiǎo nǐ duì zhè gè shū zhōng nèiróng de kànfǎ dehuà,	and then express your own views on the book’s content,
 那么你看再多的书，	nàme nǐ kàn zài duō de shū,	then no matter how many books you read,
 也可能对你的表达能力帮助不大	yě kěnéng duì nǐ de biǎodá nénglì bāngzhù bù dà.	they may not help your expressive ability very much.
 毕竟你看的书里面的词汇	Bìjìng nǐ kàn de shū lǐmiàn de cíhuì	After all, the vocabulary in the books you read
@@ -387,7 +387,7 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 表达各种各样的想法。	biǎodá gèzhǒng-gèyàng de xiǎngfǎ.	to express all kinds of ideas.
 但在网上的话，你就比较容易表达你自己的看法	Dàn zài wǎngshàng dehuà, nǐ jiù bǐjiào róngyì biǎodá nǐ zìjǐ de kànfǎ.	But online, it’s relatively easier to express your own views.
 我觉得有好有坏吧。	Wǒ juéde yǒu hǎo, yǒu huài ba.	So I think there are both good and bad sides.
-我想问你一个事情，就是关于抱怨这个事情。	Wǒ xiǎng wèn nǐ yī gè shìqing, jiùshì guānyú bàoyuàn zhège shìqing.	I want to ask you about one thing—complaining.
+我想问你一个事情，就是关于抱怨这个事情。	Wǒ xiǎng wèn nǐ yī gè shìqing, jiùshì guānyú bàoyuàn zhè gè shìqing.	I want to ask you about one thing—complaining.
 我有注意到西方人会更加喜欢表达自己的抱怨。	Wǒ yǒu zhùyì dào Xīfāngrén huì gèngjiā xǐhuan biǎodá zìjǐ de bàoyuàn.	I’ve noticed that Westerners tend to like expressing their complaints more.
 就比如说他对某一个服务	Jiù bǐrú shuō tā duì mǒu yī gè fúwù	For example, when they’re dissatisfied with a certain service
 或者某一件事情不满意的时候，	huòzhě mǒu yī jiàn shìqing bù mǎnyì de shíhou,	or a certain matter,
@@ -401,12 +401,12 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 所以我去到的每一家中餐厅里面	Suǒyǐ wǒ qùdào de měi yī jiā Zhōng cāntīng lǐmiàn	So in every Chinese restaurant I go to,
 都会有人吸烟。	dōu huì yǒurén xīyān.	there will be people smoking.
 但你会发现很少会有其他的客人去指出这一点，	Dàn nǐ huì fāxiàn hěn shǎo huì yǒu qítā de kèrén qù zhǐchū zhè yīdiǎn,	But you’ll find that very few other customers will point this out,
-跟老板说或者是直接跟这个顾客说，	gēn lǎobǎn shuō huòzhě shì zhíjiē gēn zhège gùkè shuō,	either to tell the owner or directly tell the customer,
+跟老板说或者是直接跟这个顾客说，	gēn lǎobǎn shuō huòzhě shì zhíjiē gēn zhè gè gùkè shuō,	either to tell the owner or directly tell the customer,
 你可不可以不要抽烟？	nǐ kě bù kěyǐ bù yào chōuyān?	“Could you please not smoke?”
 老实说我也挣扎过很多次，	Lǎoshi shuō wǒ yě zhēngzháguo hěn duō cì,	Honestly speaking, I’ve struggled many times as well.
 就是我会在心里骂他，然后…	jiùshì wǒ huì zài xīnli mà tā, ránhòu…	That is, I would curse him in my heart, and then…
 但是到后面也有一次我鼓起了勇气，	dànshì dào hòumian yě yǒu yī cì wǒ gǔqǐle yǒngqì,	But later on there was one time when I mustered up the courage,
-我就跟我邻桌的那个男的说，	wǒ jiù gēn wǒ línzhuō de nàge nánde shuō,	and I said to the man at the table next to me,
+我就跟我邻桌的那个男的说，	wǒ jiù gēn wǒ línzhuō de nà gè nánde shuō,	and I said to the man at the table next to me,
 我说帅哥不好意思，	wǒ shuō, “Shuàigē bù hǎoyìsi,	I said, “Hey, handsome, sorry,
 你可不可以不要在这里吸烟？	nǐ kě bù kěyǐ bù yào zài zhèlǐ xīyān?	could you please not smoke here?”
 因为影响到了我。	Yīnwèi yǐngxiǎng dào le wǒ.”	“Because it’s affecting me.”
@@ -437,9 +437,9 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 我觉得表达在这里特别重要。	Wǒ juéde biǎodá zài zhèlǐ tèbié zhòngyào.	I think expression is especially important here.
 就比如说两夫妻在一起，	Jiù bǐrú shuō liǎng fūqī zài yīqǐ,	For example, when a married couple is together,
 在性方面有些不同的需求	zài xìng fāngmiàn yǒuxiē bùtóng de xūqiú	and they have different needs in terms of sex,
-也许这个女生，她喜欢被虐待。	yěxǔ zhège nǚshēng, tā xǐhuan bèi nüèdài.	maybe this woman likes being abused.
-但是这个男生不知道，就是她的有些性癖一些fetish	Dànshì zhège nánshēng bù zhīdào, jiùshì tā de yǒuxiē xìngpǐ yīxiē fetish	But this man doesn’t know—some of her sexual preferences, some fetishes—
-她想做这个事情，但她没有办法表达出来。	tā xiǎng zuò zhège shìqing, dàn tā méiyǒu bànfǎ biǎodá chūlai.	she wants to do these things, but she has no way to express them.
+也许这个女生，她喜欢被虐待。	yěxǔ zhè gè nǚshēng, tā xǐhuan bèi nüèdài.	maybe this woman likes being abused.
+但是这个男生不知道，就是她的有些性癖一些fetish	Dànshì zhè gè nánshēng bù zhīdào, jiùshì tā de yǒuxiē xìngpǐ yīxiē fetish	But this man doesn’t know—some of her sexual preferences, some fetishes—
+她想做这个事情，但她没有办法表达出来。	tā xiǎng zuò zhè gè shìqing, dàn tā méiyǒu bànfǎ biǎodá chūlai.	she wants to do these things, but she has no way to express them.
 那不就造成了生活的矛盾吗？	Nà bù jiù zàochéngle shēnghuó de máodùn ma?	Doesn’t that then create conflict in life?
 他们就因此吵架，可能最后会离婚	Tāmen jiù yīncǐ chǎojià, kěnéng zuìhòu huì líhūn.	They argue because of this, and maybe eventually divorce.
 我有一个想法	Wǒ yǒu yī gè xiǎngfǎ,	I have a thought:
@@ -454,38 +454,38 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 在于他是否对一件事情进行过很深度的思考	zàiyú tā shìfǒu duì yī jiàn shìqing jìnxíngguo hěn shēndù de sīkǎo,	depends on whether they’ve thought deeply about something.
 因为你思考的时候，	yīnwèi nǐ sīkǎo de shíhou,	Because when you think,
 你肯定是用一些词汇去思考的嘛。	nǐ kěndìng shì yòng yīxiē cíhuì qù sīkǎo de ma.	you’re definitely using some vocabulary to think, right?
-你说这个词汇量的问题，让我想到了一个事。	Nǐ shuō zhège cíhuìliàng de wèntí, ràng wǒ xiǎngdàole yī gè shì.	What you said about vocabulary made me think of something.
+你说这个词汇量的问题，让我想到了一个事。	Nǐ shuō zhè gè cíhuìliàng de wèntí, ràng wǒ xiǎngdàole yī gè shì.	What you said about vocabulary made me think of something.
 就是大家都知道成龙吧？	Jiùshì dàjiā dōu zhīdào Chénglóng ba?	Everyone knows Jackie Chan (成龙 Chéng Lóng), right?
 成龙其实他的英文是相当的普通，相当一般。	Chénglóng qíshí tā de Yīngwén shì xiāngdāng de pǔtōng, xiāngdāng yībān.	Jackie Chan’s English is actually quite ordinary, quite average.
 他的词汇量很小的，	Tā de cíhuìliàng hěn xiǎo de,	His vocabulary is very small,
 因为英语毕竟不是他的母语嘛，	yīnwèi Yīngyǔ bìjìng bù shì tā de mǔyǔ ma,	because after all, English isn’t his native language,
 然后他也可能也没有时间去学习。	ránhòu tā yě kěnéng yě méiyǒu shíjiān qù xuéxí.	and he probably also doesn’t have time to study it.
-我发现他这个人表达能力特别的强。	Wǒ fāxiàn tā zhège rén biǎodá nénglì tèbié de qiáng.	But I’ve found that his expressive ability is extremely strong.
+我发现他这个人表达能力特别的强。	Wǒ fāxiàn tā zhè gè rén biǎodá nénglì tèbié de qiáng.	But I’ve found that his expressive ability is extremely strong.
 就是他在被柯南采访的时候，	Jiùshì tā zài bèi Kēnán cǎifǎng de shíhou,	That is, when he was interviewed by Conan (柯南 Kē Nán),
 我记得他讲说，	wǒ jìde tā jiǎngshuō,	I remember he said that
 他好像是跟一群biker就是骑摩托车的人	tā hǎoxiàng shì gēn yī qún biker jiùshì qí mótuōchē de rén	he seemed to have had a conflict with a group of bikers—motorcycle riders—
 就是像是一个帮派一样的人发生了冲突，	jiùshì xiàng shì yī gè bāngpài yīyàng de rén fāshēngle chōngtū,	kind of like a gang,
 然后他们打起来了。	ránhòu tāmen dǎ qilai le.	and then they got into a fight.
 他好像把他们的摩托车踢倒了，	Tā hǎoxiàng bǎ tāmen de mótuōchē tīdǎo le,	He seemed to have kicked over their motorcycles.
-他就一脚踢上去，那个摩托车咚咚咚	tā jiù yī jiǎo tī shàngqu, nàge mótuōchē dōng dōng dōng…	He kicked them—bang, bang, bang—
+他就一脚踢上去，那个摩托车咚咚咚	tā jiù yī jiǎo tī shàngqu, nà gè mótuōchē dōng dōng dōng…	He kicked them—bang, bang, bang—
 他用英文词汇去表达其实是非常不连贯的。	tā yòng Yīngwén cíhuì qù biǎodá, qíshí shì fēicháng bù liánguàn de.	and his English vocabulary was actually very incoherent.
 他也不知道怎么去表达，	Tā yě bù zhīdào zěnme qù biǎodá,	He also didn’t know how to express it properly,
 但是他用了很多拟声词，加上他的动作，	dànshì tā yòngle hěn duō nǐshēngcí, jiāshàng tā de dòngzuò,	but he used a lot of onomatopoeia along with his actions,
-让人就很直观地看到了那个画面。	ràngrén jiù hěn zhíguān de kàndàole nàge huàmiàn.	so that people could very directly see the scene.
+让人就很直观地看到了那个画面。	ràngrén jiù hěn zhíguān de kàndàole nà gè huàmiàn.	so that people could very directly see the scene.
 我觉得他的英文是最broken的，	Wǒ juéde tā de Yīngwén shì zuì broken de,	I think his English is the most “broken,”
-但是他讲出来的那个概念	dànshì tā jiǎng chūlai de nàge gàiniàn	but the concept he conveys
+但是他讲出来的那个概念	dànshì tā jiǎng chūlai de nà gè gàiniàn	but the concept he conveys
 是最让你能看到画面的，	shì zuì ràng nǐ néng kàndào huàmiàn de,	is the one that lets you see the picture most clearly.
 其实很栩栩如生的，非常好的一种表达。	qíshí hěn xǔxǔ-rúshēng de, fēicháng hǎo de yī zhǒng biǎodá.	It’s actually very vivid—an extremely good kind of expression.
 这个节目效果是非常的好。	Zhège jiémù xiàoguǒ shì fēicháng de hǎo.	The effect on the show was very good.
-他讲的…表达的这个方式让你好像	Tā jiǎng de… biǎodá de zhège fāngshì ràng nǐ hǎoxiàng	The way he spoke… the way he expressed it made you feel as if
+他讲的…表达的这个方式让你好像	Tā jiǎng de… biǎodá de zhè gè fāngshì ràng nǐ hǎoxiàng	The way he spoke… the way he expressed it made you feel as if
 在看了一出典型的成龙的电影。	zài kànle yī chū diǎnxíng de Chénglóng de diànyǐng.	you were watching a typical Jackie Chan movie.
 但是在现实生活中，	Dànshì zài xiànshí shēnghuó zhōng,	But in real life,
 我们不管普通人的词汇量有多少	wǒmen bùguǎn pǔtōngrén de cíhuìliàng yǒu duōshao	no matter how large an ordinary person’s vocabulary is,
 作为一个中国人，	zuòwéi yī gè Zhōngguórén,	as a Chinese person,
 你应该能很流畅很顺畅地	nǐ yīnggāi néng hěn liúchàng, hěn shùnchàng de	you should be able to fluently and smoothly
 用中文来表达一个事情。	yòng Zhōngwén lái biǎodá yī gè shìqing.	use Chinese to express something.
-但很少有人能像成龙这个样子	Dàn hěn shǎo yǒurén néng xiàng Chénglóng zhège yàngzi	But very few people can be like Jackie Chan,
-把这个事情活灵活现地，非常形象地	bǎ zhège shìqing huólíng-huóxiàn de, fēicháng xíngxiàng de	bringing something to life, extremely vividly,
+但很少有人能像成龙这个样子	Dàn hěn shǎo yǒurén néng xiàng Chénglóng zhè gè yàngzi	But very few people can be like Jackie Chan,
+把这个事情活灵活现地，非常形象地	bǎ zhè gè shìqing huólíng-huóxiàn de, fēicháng xíngxiàng de	bringing something to life, extremely vividly,
 就是表达给其他人听。	jiùshì biǎodá gěi qítārén tīng.	and expressing it to others in such an imagery-rich way.
 我觉得这是一个很少见的天赋。	Wǒ juéde zhè shì yī gè hěn shǎojiàn de tiānfù.	I think this is a very rare talent.
 首先他自己脑子里有一个画面，	Shǒuxiān tā zìjǐ nǎozi lǐ yǒu yī gè huàmiàn,	First of all, he has a picture in his own mind,
@@ -494,14 +494,14 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 用他的词汇或者是肢体语言传达给观众。	yòng tā de cíhuì huòzhě shì zhītǐ yǔyán chuándá gěi guānzhòng.	to the audience using his vocabulary or body language.
 我觉得这个才是最主要的，就是他有表达欲望，	Wǒ juéde zhège cái shì zuì zhǔyào de, jiùshì tā yǒu biǎodá yùwàng,	I think this is the most important thing—that he has the desire to express,
 并且他在试图尝试不同的办法来表达给大家。	bìngqiě tā zài shìtú chángshì bùtóng de bànfǎ lái biǎodá gěi dàjiā.	and is trying different ways to express it to everyone.
-这个事情让我想到你不要害怕去表达。	Zhège shìqing ràng wǒ xiǎngdào nǐ bù yào hàipà qù biǎodá.	This makes me think: don’t be afraid to express yourself.
+这个事情让我想到你不要害怕去表达。	zhè gè shìqing ràng wǒ xiǎngdào nǐ bù yào hàipà qù biǎodá.	This makes me think: don’t be afraid to express yourself.
 就是当你讲得不好的时候，	Jiùshì dāng nǐ jiǎng de bù hǎo de shíhou,	When you speak poorly,
 你讲得支离破碎的时候	nǐ jiǎng de zhīlí-pòsuì de shíhou,	when what you say is fragmented and disjointed,
 你也不要去回避去表达。	nǐ yě bù yào qù huíbì qù biǎodá.	you also shouldn’t avoid expressing yourself.
 这个点蛮好的，就是不要害怕表达。	Zhège diǎn mán hǎo de, jiùshì bù yào hàipà biǎodá.	This point is quite good—don’t be afraid to express.
 我们之前一直在说我们缺乏练习，缺乏练习	Wǒmen zhī qián yīzhí zài shuō wǒmen quēfá liànxí, quēfá liànxí.	We’ve been saying all along that we lack practice, lack practice.
 那么如果你害怕表达的话，	Nàme, rúguǒ nǐ hàipà biǎodá dehuà,	So if you’re afraid to express yourself,
-你就不会有这个练习的机会了。	nǐ jiù bù huì yǒu zhège liànxí de jīhuì le.	you won’t have the opportunity to practice.
+你就不会有这个练习的机会了。	nǐ jiù bù huì yǒu zhè gè liànxí de jīhuì le.	you won’t have the opportunity to practice.
 你这样想嘛，	Nǐ zhèyàng xiǎng ma:	Think about it this way:
 有很多学中文的外国人	Yǒu hěn duō xué Zhōngwén de wàiguórén	there are many foreigners learning Chinese.
 他们其实他刚刚学习的时候，	tāmen qíshí tā gānggang xuéxí de shíhou,	When they’re just starting out,
@@ -514,16 +514,16 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 他们又特别害怕说自己英文讲得不好	tāmen yòu tèbié hàipà shuō zìjǐ Yīngwén jiǎng de bù hǎo	they’re especially afraid of speaking because they think their English isn’t good,
 他不敢跟别人讲。	tā bù gǎn gēn biéren jiǎng.	and they don’t dare to talk to others.
 你要意识到每个人都是从孩子到成年人	Nǐ yào yìshí dào měi gè rén dōu shì cóng háizi dào chéngniánrén	You need to realize that everyone goes from child to adult,
-从没有知识到有知识这个阶段，	cóng méiyǒu zhīshi dào yǒu zhīshi zhège jiēduàn,	from having no knowledge to having knowledge.
+从没有知识到有知识这个阶段，	cóng méiyǒu zhīshi dào yǒu zhīshi zhè gè jiēduàn,	from having no knowledge to having knowledge.
 你就要努力地去尝试跟别人沟通	nǐ jiù yào nǔlì de qù chángshì gēn biéren gōutōng,	You need to make the effort to try communicating with others,
-让别人看到你在努力，就好像成龙那个样子。	ràng biéren kàndào nǐ zài nǔlì, jiù hǎoxiàng Chénglóng nàge yàngzi.	to let others see that you’re trying—just like Jackie Chan.
+让别人看到你在努力，就好像成龙那个样子。	ràng biéren kàndào nǐ zài nǔlì, jiù hǎoxiàng Chénglóng nà gè yàngzi.	to let others see that you’re trying—just like Jackie Chan.
 说到这个，你觉得中国人	Shuōdào zhège, nǐ juéde Zhōngguórén	Speaking of this, do you think Chinese people
 是不是对于别人的表达缺乏耐心？	shì bù shì duìyú biéren de biǎodá quēfá nàixīn?	lack patience toward other people’s expression?
-就像你刚刚说的那个外国人的例子	Jiù xiàng nǐ gānggang shuō de nàge wàiguórén de lìzi	Like the example of foreigners you just mentioned.
+就像你刚刚说的那个外国人的例子	Jiù xiàng nǐ gānggang shuō de nà gè wàiguórén de lìzi	Like the example of foreigners you just mentioned.
 我就发现假设我跟一个外国人出去吃饭点菜	wǒ jiù fāxiàn jiǎshè wǒ gēn yī gè wàiguórén chūqù chīfàn, diǎncài,	I’ve noticed that if I go out to eat with a foreigner and order food,
-然后这个外国人刚好会一点点中文，	ránhòu zhège wàiguórén gānghǎo huì yīdiǎndiǎn Zhōngwén,	and that foreigner happens to know a bit of Chinese,
-他就会跟这个服务员交流。	tā jiù huì gēn zhège fúwùyuán jiāoliú.	they’ll try to communicate with the server.
-然后这个服务员直接就是不听，他就会看向我	Ránhòu zhège fúwùyuán zhíjiē jiùshì bù tīng, tā jiù huì kàn xiàng wǒ	But the server will directly not listen and will look at me instead,
+然后这个外国人刚好会一点点中文，	ránhòu zhè gè wàiguórén gānghǎo huì yīdiǎndiǎn Zhōngwén,	and that foreigner happens to know a bit of Chinese,
+他就会跟这个服务员交流。	tā jiù huì gēn zhè gè fúwùyuán jiāoliú.	they’ll try to communicate with the server.
+然后这个服务员直接就是不听，他就会看向我	Ránhòu zhè gè fúwùyuán zhíjiē jiùshì bù tīng, tā jiù huì kàn xiàng wǒ	But the server will directly not listen and will look at me instead,
 期待我去帮他翻译。	qīdài wǒ qù bāng tā fānyì.	expecting me to help translate.
 如果大家都对这样的不好的表达缺乏耐心的话，	Rúguǒ dàjiā dōu duì zhèyàng de bù hǎo de biǎodá quēfá nàixīn dehuà,	If everyone lacks patience toward this kind of imperfect expression,
 其实也是打压这种表达的欲望。	qíshí yě shì dǎyā biǎodá de yùwàng.	it’s actually also suppressing the desire to express.
@@ -532,7 +532,7 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 他是一个加拿大人。	Tā shì yī gè Jiānádà rén.	He’s a Canadian.
 他在中国说相声，	Tā zài Zhōngguó shuō xiàngsheng,	He performs crosstalk (相声 xiàngsheng) in China,
 是一个非常有名的人，对吧？	shì yī gè fēicháng yǒumíng de rén, duì ba?	and he’s a very famous person, right?
-他都已经在那个央视春晚里面表演了，	Tā dōu yǐjīng zài nàge Yāngshì Chūnwǎn lǐmiàn biǎoyǎn le,	He’s even performed on the CCTV Spring Festival Gala (央视春晚 Yāngshì Chūnwǎn),
+他都已经在那个央视春晚里面表演了，	Tā dōu yǐjīng zài nà gè Yāngshì Chūnwǎn lǐmiàn biǎoyǎn le,	He’s even performed on the CCTV Spring Festival Gala (央视春晚 Yāngshì Chūnwǎn),
 说明他的中文能力是相当地好了，对吧？	shuōmíng tā de Zhōngwén nénglì shì xiāngdāng de hǎo le, duì ba?	which shows that his Chinese ability is quite good, right?
 但是他出去跟别人聊天的时候，	Dànshì tā chūqù gēn biéren liáotiān de shíhou,	But when he goes out and chats with people,
 当他们都在用中文讲了一大段话之后，	dāng tāmen dōu zài yòng Zhōngwén jiǎngle yī dà duàn huà zhī hòu,	after they’ve all spoken a long stretch of Chinese,
@@ -543,7 +543,7 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 就说我在中国这么多年了，	Jiù shuō, “Wǒ zài Zhōngguó zhème duō nián le,	He says, “I’ve been in China for so many years,
 能够讲相声了	nénggòu jiǎng xiàngsheng le,	I can even perform crosstalk,
 你对我的评价还是，	nǐ duì wǒ de píngjià hái shì	and your evaluation of me is still,
-你这个外国人讲的中文讲得真好！	Nǐ zhège wàiguórén jiǎng de Zhōngwén jiǎng de zhēn hǎo!’”	‘You, a foreigner, speak Chinese really well!’”
+你这个外国人讲的中文讲得真好！	Nǐ zhè gè wàiguórén jiǎng de Zhōngwén jiǎng de zhēn hǎo!’”	‘You, a foreigner, speak Chinese really well!’”
 你有没有发现就是有一些外国人	Nǐ yǒu méiyǒu fāxiàn jiùshì yǒu yīxiē wàiguórén	Have you noticed that some foreigners,
 他的中文很好的时候	tā de Zhōngwén hěn hǎo de shíhou,	when their Chinese is very good,
 我发现他们的表达能力	wǒ fāxiàn tāmen de biǎodá nénglì	their expressive ability
@@ -555,9 +555,9 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 虽然我是一个土生土长的中国人。	suīrán wǒ shì yī gè tǔshēng-tǔzhǎng de Zhōngguórén.	even though I’m a native-born Chinese person.
 我觉得他首先没有受到中国文化的束缚。	Wǒ juéde tā shǒuxiān méiyǒu shòudào Zhōngguó wénhuà de shùfù.	I think first of all, he hasn’t been constrained by Chinese culture.
 我们作为中国人，我们不是在学习	Wǒmen zuòwéi Zhōngguórén, wǒmen bù shì zài xuéxí	As Chinese people, we’re not “learning” it—
-我们就浸在那个…这个文化像水池一样，	wǒmen jiù jìn zài nàge… zhège wénhuà xiàng shuǐchí yīyàng,	we’re immersed in it, like culture is a pool of water.
-我们浸在这个水池里面。	wǒmen jìn zài zhège shuǐchí lǐmiàn.	We’re soaked in this pool.
-这个文化有好的地方，	Zhège wénhuà yǒu hǎo de dìfang,	This culture has good aspects,
+我们就浸在那个…这个文化像水池一样，	wǒmen jiù jìn zài nà gè… zhè gè wénhuà xiàng shuǐchí yīyàng,	we’re immersed in it, like culture is a pool of water.
+我们浸在这个水池里面。	wǒmen jìn zài zhè gè shuǐchí lǐmiàn.	We’re soaked in this pool.
+这个文化有好的地方，	Zhè gè wénhuà yǒu hǎo de dìfang,	This culture has good aspects,
 积极的地方，也有负面的地方	jījí de dìfang, yě yǒu fùmiàn de dìfang.	positive aspects, and also negative aspects.
 比如说我们在学习的过程中，	Bǐrú shuō, wǒmen zài xuéxí de guòchéng zhōng,	For example, in our learning process,
 就有很多隐晦的东西	jiù yǒu hěn duō yǐnhuì de dōngxi,	there are many implicit things,
@@ -565,35 +565,35 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 我们自己也不会去探索，	Wǒmen zìjǐ yě bù huì qù tànsuǒ,	We ourselves also won’t explore them,
 因为文化就是这样。	yīnwèi wénhuà jiùshì zhèyàng.	because the culture is just like that.
 就像我们刚才说的一句话，自古以来	Jiù xiàng wǒmen gāngcái shuō de yī jù huà, zìgǔ-yǐlái,	Like that phrase we mentioned earlier, “since ancient times” (自古以来 zìgǔ yǐlái),
-你不会去深究这个问题。	nǐ bù huì qù shēnjiū zhège wèntí.	you won’t go deeply into questioning it.
+你不会去深究这个问题。	nǐ bù huì qù shēnjiū zhè gè wèntí.	you won’t go deeply into questioning it.
 但是对外国人来说呢，	Dànshì duì wàiguórén lái shuō ne,	But for foreigners,
-他是没有这个文化束缚的	tā shì méiyǒu zhège wénhuà shùfù de.	they don’t have this kind of cultural constraint.
+他是没有这个文化束缚的	tā shì méiyǒu zhè gè wénhuà shùfù de.	they don’t have this kind of cultural constraint.
 他可以无忧无虑地去，	Tā kěyǐ wúyōu-wúlǜ de qù,	They can, carefree,
-没有任何禁忌地去学习这个文化。	méiyǒu rènhé jìnjì de qù xuéxí zhège wénhuà.	with no taboos at all, learn about this culture.
+没有任何禁忌地去学习这个文化。	méiyǒu rènhé jìnjì de qù xuéxí zhè gè wénhuà.	with no taboos at all, learn about this culture.
 而且在他学习的过程中，	Érqiě zài tā xuéxí de guòchéng zhōng,	And in the process of their learning,
 别人也不会打压他	biéren yě bù huì dǎyā tā,	others also won’t suppress them,
 就说，这么简单的问题你为什么还要问呢？	jiù shuō, “Zhème jiǎndān de wèntí nǐ wèishénme hái yào wèn ne?”	saying, “This question is so simple—why are you still asking?”
 但是因为他的身份是一个外国人	Dànshì yīnwèi tā de shēnfèn shì yī gè wàiguórén,	Because their identity is that of a foreigner,
 我本来就是一个学生，	“Wǒ běnlái jiùshì yī gè xuésheng,	“I’m originally a student,”
-我本来就在学习这个文化	wǒ běnlái jiù zài xuéxí zhège wénhuà,	“I’m originally learning this culture,”
+我本来就在学习这个文化	wǒ běnlái jiù zài xuéxí zhè gè wénhuà,	“I’m originally learning this culture,”
 所以我可以完全地去探索	suǒyǐ wǒ kěyǐ wánquán de qù tànsuǒ	so I can fully explore it,
-而且从不同的角度去看这个文化。	érqiě cóng bùtóng de jiǎodù qù kàn zhège wénhuà.”	and look at this culture from different perspectives.
+而且从不同的角度去看这个文化。	érqiě cóng bùtóng de jiǎodù qù kàn zhè gè wénhuà.”	and look at this culture from different perspectives.
 比如说对同一个事物，一段历史的看法	Bǐrú shuō, duì tóngyī gè shìwù, yī duàn lìshǐ de kànfǎ,	For example, with regard to the same matter or a stretch of history,
 我们中国人已经有一个成型的自古以来的看法了。	wǒmen Zhōngguórén yǐjīng yǒu yī gè chéngxíng de zìgǔ-yǐlái de kànfǎ le.	we Chinese people already have a fixed, “since ancient times” perspective.
 那只是一个角度，对吧？	Nà zhǐshì yī gè jiǎodù, duì ba?	That’s just one angle, right?
-但是外国人看这个事情，他可以从不同的文化	Dànshì wàiguórén kàn zhège shìqing, tā kěyǐ cóng bùtóng de wénhuà,	But when foreigners look at this matter, they can come from different cultures,
-不同的角度来看这个事情，	bùtóng de jiǎodù lái kàn zhège shìqing.	look at it from different angles,
-他可以从不同的角度来描述这个事情，	Tā kěyǐ cóng bùtóng de jiǎodù lái miáoshù zhège shìqing,	and describe it from different angles.
+但是外国人看这个事情，他可以从不同的文化	Dànshì wàiguórén kàn zhè gè shìqing, tā kěyǐ cóng bùtóng de wénhuà,	But when foreigners look at this matter, they can come from different cultures,
+不同的角度来看这个事情，	bùtóng de jiǎodù lái kàn zhè gè shìqing.	look at it from different angles,
+他可以从不同的角度来描述这个事情，	Tā kěyǐ cóng bùtóng de jiǎodù lái miáoshù zhè gè shìqing,	and describe it from different angles.
 这就是为什么我觉得一些外国人	zhè jiùshì wèishénme wǒ juéde yīxiē wàiguórén	This is why I think that some foreigners,
 当他真正沉浸在学习中国文化里面的时候，	dāng tā zhēnzhèng chénjìn zài xuéxí Zhōngguó wénhuà lǐmiàn de shíhou,	when they truly immerse themselves in learning Chinese culture,
 他的优势在哪里？	tā de yōushì zài nǎlǐ?	where their advantage lies
-就是不同的角度去看这个事情	Jiùshì bùtóng de jiǎodù qù kàn zhège shìqing	is in viewing things from different perspectives,
+就是不同的角度去看这个事情	Jiùshì bùtóng de jiǎodù qù kàn zhè gè shìqing	is in viewing things from different perspectives,
 导致了他的表达能力更好。	dǎozhìle tā de biǎodá nénglì gèng hǎo.	which results in better expressive ability.
 而且我觉得相对来说他们会更加爱表达观点。	Érqiě wǒ juéde xiāngduì lái shuō, tāmen huì gèngjiā ài biǎodá guāndiǎn.	And I think relatively speaking, they’re more inclined to express viewpoints.
-就像你说的他们没有从小的这个文化束缚	Jiù xiàng nǐ shuō de, tāmen méiyǒu cóngxiǎo de zhège wénhuà shùfù,	Just like you said, they don’t have this cultural constraint from childhood;
+就像你说的他们没有从小的这个文化束缚	Jiù xiàng nǐ shuō de, tāmen méiyǒu cóngxiǎo de zhè gè wénhuà shùfù,	Just like you said, they don’t have this cultural constraint from childhood;
 他们是被鼓励去表达的。	tāmen shì bèi gǔlì qù biǎodá de.	they’re encouraged to express themselves.
 所以只是转换了一个语言而已，	Suǒyǐ zhǐshì zhuǎnhuànle yī gè yǔyán éryǐ.	So it’s really just switching languages.
-他如果在英文的这个语言当中	Tā rúguǒ zài Yīngwén de zhège yǔyán dāngzhōng	If in English
+他如果在英文的这个语言当中	Tā rúguǒ zài Yīngwén de zhè gè yǔyán dāngzhōng	If in English
 很擅长表达自己，	hěn shàncháng biǎodá zìjǐ,	they’re very good at expressing themselves,
 那么中文只是换了个语言而已。	nàme Zhōngwén zhǐshì huànle gè yǔyán éryǐ.	then Chinese is just another language switch.
 他会去学习同样的类似的词汇来表达	Tā huì qù xuéxí tóngyàng de lèisì de cíhuì lái biǎodá,	They’ll learn similar vocabulary to express
@@ -619,11 +619,11 @@ const lessonTextArticulateness = `大家好，欢迎来到Mandarin Corner的播�
 其实对外国的了解是非常狭隘非常少	qíshí duì wàiguó de liǎojiě shì fēicháng xiá'ài, fēicháng shǎo.	our understanding of foreign countries is actually very narrow and very limited.
 好，那我们也再接再厉，	Hǎo, nà wǒmen yě zàijiē-zàilì,	All right, then let’s keep pushing ourselves,
 可以继续去提高我们的表达。	kěyǐ jìxù qù tígāo wǒmen de biǎodá.	and continue to improve our expression.
-今天这个话题本身对我自己就帮助挺大的吧	Jīntiān zhège huàtí běnshēn duì wǒ zìjǐ jiù bāngzhù tǐng dà de ba,	Today’s topic itself helped me quite a lot,
+今天这个话题本身对我自己就帮助挺大的吧	Jīntiān zhè gè huàtí běnshēn duì wǒ zìjǐ jiù bāngzhù tǐng dà de ba,	Today’s topic itself helped me quite a lot,
 让我就是梳理一下自己的思维，	ràng wǒ jiùshì shūlǐ yīxià zìjǐ de sīwéi,	helping me sort out my own thinking,
 还有就是提升我自己的表达能力吧，我觉得	háiyǒu jiùshì tíshēng wǒ zìjǐ de biǎodá nénglì ba, wǒ juéde.	and also improve my own expressive ability, I think.
 那我们今天的播客就到这里结束吧。	Nà wǒmen jīntiān de bōkè jiù dào zhèlǐ jiéshù ba.	So let’s end today’s podcast here.
-那如果你喜欢这个视频的话，	Nà rúguǒ nǐ xǐhuan zhège shìpín dehuà,	If you like this video,
+那如果你喜欢这个视频的话，	Nà rúguǒ nǐ xǐhuan zhè gè shìpín dehuà,	If you like this video,
 就一定要记得给我点赞、转发	jiù yīdìng yào jìde gěi wǒ diǎnzàn, zhuǎnfā,	be sure to remember to like it, share it,
 并订阅我们的频道！	bìng dìngyuè wǒmen de píndào!	and subscribe to our channel!
 我们下一次再接着聊别的话题。	Wǒmen xià yī cì zài jiēzhe liáo biéde huàtí.	Next time we’ll continue chatting about other topics.
