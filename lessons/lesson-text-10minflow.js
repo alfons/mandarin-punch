@@ -2,25 +2,25 @@ const lessonText10minflow = `嗨！	Hēi!	Hi!
 欢迎来到 Flow with Katie 凯蒂瑜珈。	Huānyíng láidào Flow with Katie Kǎidì yújiā.	Welcome to Flow with Katie Yoga.
 我们家 Rania 今天满月了，那也代表我准备要离开月子中心。	Wǒmen jiā Rania jīntiān mǎnyuè le, nà yě dàibiǎo wǒ zhǔnbèi yào líkāi yuèzi zhōngxīn.	Our baby Rania is one month old today, which also means I’m getting ready to leave the postpartum care center.
 目前觉得体力大概有恢复了五成左右。	Mùqián juéde tǐlì dàgài yǒu huīfùle wǔ chéng zuǒyòu.	Right now I feel like my energy has recovered to about fifty percent.
-那一样趁这个时间，拍一个比较小空间的练习给大家。	Nà yīyàng chèn zhège shíjiān, pāi yī gè bǐjiào xiǎo kōngjiān de liànxí gěi dàjiā.	So I’m taking this opportunity to film another practice for smaller spaces.
+那一样趁这个时间，拍一个比较小空间的练习给大家。	Nà yīyàng chèn zhè gè shíjiān, pāi yī gè bǐjiào xiǎo kōngjiān de liànxí gěi dàjiā.	So I’m taking this opportunity to film another practice for smaller spaces.
 大家可以趁著办公室上班的空档，或者是在家里面找一个比较小的空间，随时随地、不用一大间都可以练习。	Dàjiā kěyǐ chènzhe bàngōngshì shàngbān de kòngdàng, huòzhě shì zài jiā lǐmiàn zhǎo yī gè bǐjiào xiǎo de kōngjiān, suíshí suídì, bù yòng yī dà jiān dōu kěyǐ liànxí.	You can practice during breaks at the office, or find a small space at home — you don’t need a big room to practice anytime, anywhere.
 那就让我们一起开始囉！	Nà jiù ràng wǒmen yīqǐ kāishǐ luō!	Alright, let’s begin together!
 好，我们首先找到一个站着舒服、平均的位置。	Hǎo, wǒmen shǒuxiān zhǎodào yī gè zhànzhe shūfu, píngjūn de wèizhi.	First, find a comfortable, balanced standing position.
-你的双脚可以跟骨盆同宽。	Nǐ de shuāngjiǎo kěyǐ gēn gǔpén tóng kuān.	Your feet can be about hip-width apart.
+你的双脚可以跟骨盆同宽。	Nǐ de shuāngjiǎo kěyǐ gēn gǔpén tóngkuān.	Your feet can be about hip-width apart.
 我们让右手先搭在你的右肩膀上。	Wǒmen ràng yòushǒu xiān dā zài nǐ de yòujiānbǎng shàng.	Place your right hand on your right shoulder first.
 吸气的时候让手肘往上提，吐气的时候往后转大圈。	Xīqì de shíhou ràng shǒuzhǒu wǎng shàng tí, tǔqì de shíhou wǎng hòu zhuǎn dà quān.	As you inhale, lift the elbow up; as you exhale, make a big backward circle.
-好，我们再一个吸吐。	Hǎo, wǒmen zài yī gè xī tǔ.	Alright, let’s do another inhale and exhale.
+好，我们再一个吸吐。	Hǎo, wǒmen zài yī gè xī, tǔ.	Alright, let’s do another inhale and exhale.
 最后三圈。	Zuìhòu sān quān.	Last three circles.
 吸、吐。	Xī, tǔ.	Inhale, exhale.
 再两圈。	Zài liǎng quān.	Two more circles.
 好，我们最后一圈。	Hǎo, wǒmen zuìhòu yī quān.	Alright, last circle.
 那我们换边。	Nà wǒmen huàn biān.	Now let’s switch sides.
-左手搭在左肩上，吸气手肘往上提，吐气往后转。	Zuǒshǒu dā zài zuǒjiān shàng, xīqì shǒuzhǒu wǎng shàng tí, tǔqì wǎnghòu zhuǎn.	Place your left hand on your left shoulder, inhale and lift the elbow up, exhale and rotate backward.
+左手搭在左肩上，吸气手肘往上提，吐气往后转。	Zuǒshǒu dā zài zuǒjiān shàng, xīqì shǒuzhǒu wǎng shàng tí, tǔqì wǎng hòu zhuǎn.	Place your left hand on your left shoulder, inhale and lift the elbow up, exhale and rotate backward.
 我们尽量让你的手贴近耳朵一些些，这样子转动的幅度可以比较大。	Wǒmen jǐnliàng ràng nǐ de shǒu tiējìn ěrduo yīxiēxiē, zhèyàngzi zhuǎndòng de fúdù kěyǐ bǐjiào dà.	Try to keep your hand a little closer to your ear so the range of motion can be bigger.
 再三圈。	Zài sān quān.	Three more circles.
 有些人可能在转的时候，就会听到卡卡卡的声音。	Yǒuxiē rén kěnéng zài zhuǎn de shíhou, jiù huì tīngdào kǎ kǎ kǎ de shēngyīn.	Some people may hear cracking sounds while rotating.
 最后一圈。	Zuìhòu yī quān.	Last circle.
-好，我们下个吸气双手高举、伸直。	Hǎo, wǒmen xiàge xīqì shuāngshǒu gāojǔ, shēnzhí.	Alright, on the next inhale, raise both arms up and straighten them.
+好，我们下个吸气双手高举、伸直。	Hǎo, wǒmen xià gè xīqì shuāngshǒu gāojǔ, shēnzhí.	Alright, on the next inhale, raise both arms up and straighten them.
 吐气的时候弯曲手肘、夹背，胸扩开。	Tǔqì de shíhou wānqū shǒuzhǒu, jiā bèi, xiōng kuòkāi.	As you exhale, bend the elbows, squeeze the shoulder blades together, and open the chest.
 再一个深吸往上。	Zài yī gè shēnxī wǎng shàng.	Take another deep inhale upward.
 吐气的时候，右手后、左手前打开，身体跟着扭转。	Tǔqì de shíhou, yòushǒu hòu, zuǒshǒu qián dǎkāi, shēntǐ gēnzhe niǔzhuǎn.	As you exhale, open with the right arm behind and left arm in front, twisting the body along with it.
@@ -45,7 +45,7 @@ const lessonText10minflow = `嗨！	Hēi!	Hi!
 吸气延伸。	Xīqì yánshēn.	Inhale, extend upward.
 好，吐气右手后、左手前。	Hǎo, tǔqì yòushǒu hòu, zuǒshǒu qián.	Alright, exhale, right arm behind, left arm in front.
 好，我们在这边停久一点点。	Hǎo, wǒmen zài zhèbiān tíng jiǔ yīdiǎndiǎn.	Alright, stay here a little longer.
-可以的人往后看。	Kěyǐ de rén wǎnghòu kàn.	If possible, look behind you.
+可以的人往后看。	Kěyǐ de rén wǎng hòu kàn.	If possible, look behind you.
 好，观察除了肩膀、手臂、腰侧，应该都会有伸展的感觉。	Hǎo, guānchá chúle jiānbǎng, shǒubì, yāocè, yīnggāi dōu huì yǒu shēnzhǎn de gǎnjué.	Alright, notice that besides the shoulders, arms, and sides of the waist, you should feel a stretch as well.
 好，我们吸气手往上。	Hǎo, wǒmen xīqì shǒu wǎng shàng.	Alright, inhale, arms up.
 吐气夹背。	Tǔqì jiā bèi.	Exhale, squeeze the shoulder blades together.
@@ -58,7 +58,7 @@ const lessonText10minflow = `嗨！	Hēi!	Hi!
 好，我们现在手插腰，把重心踩往左脚，抬右脚起。	Hǎo, wǒmen xiànzài shǒu chāyāo, bǎ zhòngxīn cǎi wǎng zuǒjiǎo, tái yòujiǎo qǐ.	Alright, now place your hands on your hips, shift your weight into the left foot, and lift the right foot up.
 如果没有办法平衡的人，你一样可以扶在墙壁边。	Rúguǒ méiyǒu bànfǎ pínghéng de rén, nǐ yīyàng kěyǐ fú zài qiángbì biān.	If balancing is difficult, you can still hold onto a wall.
 好，我们尽量把你的脚抬到最高。	Hǎo, wǒmen jǐnliàng bǎ nǐ de jiǎo táidào zuì gāo.	Alright, try to lift your leg as high as possible.
-好，吐气的时候往后转大圈，观察你的髋。	Hǎo, tǔqì de shíhou wǎnghòu zhuǎn dà quān, guānchá nǐ de kuān。	Alright, as you exhale, make a big backward circle and observe your hip.
+好，吐气的时候往后转大圈，观察你的髋。	Hǎo, tǔqì de shíhou wǎng hòu zhuǎn dà quān, guānchá nǐ de kuān。	Alright, as you exhale, make a big backward circle and observe your hip.
 再两圈。	Zài liǎng quān.	Two more circles.
 好，最后一圈。	Hǎo, zuìhòu yī quān.	Alright, last circle.
 好，我们现在换个方向，由外往内转。	Hǎo, wǒmen xiànzài huàn gè fāngxiàng, yóu wài wǎng nèi zhuǎn.	Alright, now let’s switch directions, circling from outside to inside.
@@ -90,11 +90,11 @@ const lessonText10minflow = `嗨！	Hēi!	Hi!
 好，这次试试看手插腰。	Hǎo, zhè cì shìshìkàn shǒu chāyāo.	Alright, this time try keeping your hands on your hips.
 好，找到平衡以后再往外。	Hǎo, zhǎodào pínghéng yǐhòu zài wǎng wài.	Alright, once you find your balance, rotate outward.
 好，我们最后一圈。	Hǎo, wǒmen zuìhòu yī quān.	Alright, last circle.
-好，由外往内转。	Hǎo, yóu wàiwǎng nèi zhuǎn.	Alright, rotate from outside to inside.
+好，由外往内转。	Hǎo, yóu wài wǎng nèi zhuǎn.	Alright, rotate from outside to inside.
 最后一圈。	Zuìhòu yī quān.	Last circle.
 好，慢慢放松，双脚动一动。	Hǎo, mànmàn fàngsōng, shuāngjiǎo dòng yī dòng.	Alright, slowly relax and shake out both feet.
 好，我们现在把右脚一个大步往后踩。	Hǎo, wǒmen xiànzài bǎ yòujiǎo yī gè dàbù wǎng hòu cǎi.	Alright, now step your right foot far back.
-然后你的后脚可以选择要在弓箭步、脚趾头点地，或者是踩脚跟往内四十五度，在英雄一的脚的形状里面都可以。	Ránhòu nǐ de hòu jiǎo kěyǐ xuǎnzé yào zài gōngjiànbù, jiǎozhǐtou diǎn dì, huòzhě shì cǎi jiǎo gēn wǎng nèi sìshíwǔ dù, zài yīngxióng yī de jiǎo de xíngzhuàng lǐmiàn dōu kěyǐ.	For your back foot, you can choose a high lunge with the toes tucked, or place the heel down at a forty-five-degree inward angle — any Warrior I foot position is fine.
+然后你的后脚可以选择要在弓箭步、脚趾头点地，或者是踩脚跟往内四十五度，在英雄一的脚的形状里面都可以。	Ránhòu nǐ de hòujiǎo kěyǐ xuǎnzé yào zài gōngjiànbù, jiǎozhǐtou diǎn dì, huòzhě shì cǎi jiǎo gēn wǎng nèi sìshíwǔ dù, zài yīngxióng yī de jiǎo de xíngzhuàng lǐmiàn dōu kěyǐ.	For your back foot, you can choose a high lunge with the toes tucked, or place the heel down at a forty-five-degree inward angle — any Warrior I foot position is fine.
 好，先以稳定为主。	Hǎo, xiān yǐ wěndìng wéizhǔ.	Alright, prioritize stability first.
 那踩宽的步距，你也可以依据你自己觉得比较好出力、往地板扎根的位置为主。	Nà cǎikuān de bùjù, nǐ yě kěyǐ yījù nǐ zìjǐ juéde bǐjiào hǎo chūlì, wǎng dìbǎn zhāgēn de wèizhi wéizhǔ.	As for the width of your stance, choose whatever position helps you feel grounded and able to exert force into the floor.
 那宽一点或者是窄一点点都可以。	Nà kuān yīdiǎn huòzhě shì zhǎi yīdiǎndiǎn dōu kěyǐ.	A slightly wider or narrower stance is both okay.
@@ -137,9 +137,9 @@ const lessonText10minflow = `嗨！	Hēi!	Hi!
 好，如果你发现明显地你臀部推往左边、这样歪掉的话，试着把左边的臀部坐回来。	Hǎo, rúguǒ nǐ fāxiàn míngxiǎn de nǐ túnbù tuī wǎng zuǒbian, zhèyàng wāidiào dehuà, shìzhe bǎ zuǒbian de túnbù zuò huílai.	Alright, if you notice your hips shifting noticeably to the left and becoming crooked, try drawing the left hip back.
 然后感觉往后推。	Ránhòu gǎnjué wǎng hòu tuī.	Then feel it pressing backward.
 然后右边的骨盆稍微带回正一些些。	Ránhòu yòubian de gǔpén shāowēi dàihuí zhèng yīxiēxiē.	And bring the right side of the pelvis slightly more back to center.
-好，还可以再加深的人，手这样贴地，就会感觉更明显你的左腿后侧。	Hǎo, hái kěyǐ zài jiāshēn de rén, shǒu zhèyàng tiē dì, jiù huì gǎnjué gèng míngxiǎn nǐ de zuǒtuǐ hòu cè.	Alright, if you can deepen further, placing the hands on the floor will make the stretch in the back of the left leg more noticeable.
+好，还可以再加深的人，手这样贴地，就会感觉更明显你的左腿后侧。	Hǎo, hái kěyǐ zài jiāshēn de rén, shǒu zhèyàng tiē dì, jiù huì gǎnjué gèng míngxiǎn nǐ de zuǒtuǐ hòucè.	Alright, if you can deepen further, placing the hands on the floor will make the stretch in the back of the left leg more noticeable.
 然后也可以慢慢把上半身再放松一些些。	Ránhòu yě kěyǐ mànmàn bǎ shàngbànshēn zài fàngsōng yīxiēxiē.	And you can also gradually relax the upper body a bit more.
-我们最后三个深吸深吐。	Wǒmen zuìhòu sān gè shēnxī shēn tǔ.	Last three deep inhales and exhales.
+我们最后三个深吸深吐。	Wǒmen zuìhòu sān gè shēnxī shēntǔ.	Last three deep inhales and exhales.
 二。	Èr.	Two.
 再一个呼吸。	Zài yī gè hūxī.	One more breath.
 好，先微弯膝盖。	Hǎo, xiān wēiwān xīgài.	Alright, slightly bend the knees first.
